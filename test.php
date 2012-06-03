@@ -2,6 +2,6 @@
 
 	echo time();
 
-	echo "Hej";
+	echo "He 2j";
 
 ?>
