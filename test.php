@@ -1,6 +1,6 @@
 <?php
 
 	echo time();
-	echo "Hej i3335";
+	echo "Hej";
 
 ?>
