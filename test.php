@@ -1,6 +1,6 @@
 <?php
 
 	echo time();
-	echo " Hej hopp";
+	echo " Hej hopp i master";
 
 ?>
